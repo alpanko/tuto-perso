@@ -10,4 +10,4 @@
 - Installer et configurer weblogic pour le data source crée
 - Creer un projet maven su intellij
 - Creer un projet modulaire maven su intellij
-- Installer et configurer Jenkins pour deployer le projet maven su web logic
+- Installer et configurer Jenkins pour deployer le projet maven su web logicServer
