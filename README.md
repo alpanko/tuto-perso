@@ -1,1 +1,1 @@
-# Repositopry pour mes tutoriels personnels
+# Repository pour mes tutoriels personnels
