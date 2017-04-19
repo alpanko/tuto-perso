@@ -1,0 +1,13 @@
+- Creer un repository Github
+- Configurer le repository et se connecter 
+- Memorizer la password de git 
+	1) temporairement
+	2) en ssh definitivement
+- Verifier Maven
+- Installer et configurer intelij
+- Installer et configurer un mysqlserver
+	1) configurer un db de test
+- Installer et configurer weblogic pour le data source crée
+- Creer un projet maven su intellij
+- Creer un projet modulaire maven su intellij
+- Installer et configurer Jenkins pour deployer le projet maven su web logic
